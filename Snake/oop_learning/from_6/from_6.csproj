@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDCB9404-E660-41DB-B7BB-E1EC2352CB2A}</ProjectGuid>
+    <ProjectGuid>{E36D7E7D-50DA-470F-A281-D9B75362F406}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>oop_learning</RootNamespace>
-    <AssemblyName>oop_learning</AssemblyName>
+    <RootNamespace>from_6</RootNamespace>
+    <AssemblyName>from_6</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

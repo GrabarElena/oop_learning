@@ -1,0 +1,7 @@
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\bin\Debug\oop_learning.exe.config
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\bin\Debug\oop_learning.exe
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\bin\Debug\oop_learning.pdb
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\obj\Debug\oop_learning.csprojResolveAssemblyReference.cache
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\obj\Debug\oop_learning.csproj.CoreCompileInputs.cache
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\obj\Debug\oop_learning.exe
+C:\Users\lenka\OneDrive - айФлекс, ООО\Обучение\C#\GitHub\Snake\oop_learning\oop_learning\obj\Debug\oop_learning.pdb
